@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Julian Noeske.
+- 👋 Hi, I’m Julian Noeske (Minh Quan Vu).
 - 👀 I’m a Cybersecurity undergraduate at Stevens Institute of Technology.
 - 🌱 I’m currently learning Python, Java, and Asembly (yes, curse me).
 I'm brand new to all of this so I'm totally willing to learn :3
